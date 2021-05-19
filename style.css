@@ -1,6 +1,7 @@
 body{
-	background-image: url("images/Bg.jpg");
+	background-image: url("https://savageuniversal.com/wp-content/uploads/2019/08/1-blacksolidmuslin.jpg");
 	/* background-repeat: no-repeat; */
+	
 }
 
 .topnav {
@@ -76,11 +77,11 @@ body{
   }
 
   #add_toppings{
-	/* padding-left:30px; */
+
 	width:200px;
 	height:180px;
 	border: none;
-	background-color:#f0062d;
+	background-color:#e2062c;
 	color:black;
 	font-size: 25px;
 	font-family: cursive;
@@ -92,7 +93,7 @@ body{
 	line-height: 20px;
 	width: 80%;
 	height: 50px;
-	color:#333 black;
+	color: #fff;
     background: none;
     border: none;
     border-bottom: 1px solid rgb(223, 205, 205);
@@ -115,18 +116,27 @@ ol.menulist>li
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: space-between;
+	border-radius: 5px;
+	border-color: white;
+	background-color: rgba(255, 255, 255, 0.1);
+	margin: 20px;
  }
  
  div.card {
     flex: 0 0 30%;
 	box-sizing: border-box;
-	color:black;
+	color:white;
 	margin: 0.5rem .18em;
-	background-color:blue;
 	align-items: center;
 	font-size: medium;
+	margin: 20px;
 }
+
 .card img{
-	width:100px;
-	height: 80px;
+	width:135px;
+	height:130px;
+	border-color: white;
+}
+.card{
+	background-image: url(Baground.jpg);
 }

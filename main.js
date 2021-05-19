@@ -1,4 +1,4 @@
-menu_list_array = ["Tandoor Pizza","Veg Pizza","Paneer Tikka Pizza","Starlight Pizza","Planet Pizza"];
+menu_list_array = ["Planet Pizza","Galaxy Pizza","Paneer Tikka Pizza","Starlight Pizza","Saturn Pizza"];
     
 function getmenu(){
     var htmldata;
